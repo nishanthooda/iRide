@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "iRide"; ObjectID = "EIE-Dl-U8M"; */
+"EIE-Dl-U8M.text" = "iRide";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "EmO-Pc-JlU"; */
+"EmO-Pc-JlU.normalTitle" = "Login";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "Fr8-fN-1ML"; */
+"Fr8-fN-1ML.title" = "Logout";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "T0E-HG-kte"; */
+"T0E-HG-kte.placeholder" = "Password";
+
+/* Class = "UINavigationItem"; title = "iRide"; ObjectID = "fbq-8n-fPX"; */
+"fbq-8n-fPX.title" = "iRide";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "q63-Ab-xSE"; */
+"q63-Ab-xSE.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Cancel Uber"; ObjectID = "tin-4R-CAp"; */
+"tin-4R-CAp.normalTitle" = "Cancel Uber";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "y8M-bM-d68"; */
+"y8M-bM-d68.normalTitle" = "Sign Up";
